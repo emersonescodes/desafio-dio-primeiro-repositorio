@@ -1,4 +1,4 @@
-# Repositório do desafio de projeto Git/Github
+# Repositório do desafio de projeto Git/Github 💻 👨‍💻
 Desafio de projeto Git/Github
 
 ## Links úteis
